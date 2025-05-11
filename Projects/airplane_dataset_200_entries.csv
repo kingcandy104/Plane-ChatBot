@@ -1,0 +1,201 @@
+Model,Manufacturer,Type,Max Speed (km/h),Range (km),Wingspan (m),First Flight
+Airbus A320 Variant 1,Airbus,Passenger,836,6556,37.3,1988
+Boeing 787 Variant 2,Boeing,Passenger,975,13945,57.9,2014
+Cessna 172 Variant 3,Cessna,Light Aircraft,227,1188,11.5,1957
+Antonov An-225 Variant 4,Antonov,Cargo,858,16465,84.0,1987
+Concorde Variant 5,BAC/Aérospatiale,Supersonic,2112,6515,24.6,1969
+Cessna 172 Variant 6,Cessna,Light Aircraft,222,1243,11.1,1957
+Airbus A320 Variant 7,Airbus,Passenger,837,6450,37.3,1985
+Concorde Variant 8,BAC/Aérospatiale,Supersonic,2115,6866,26.6,1970
+Antonov An-225 Variant 9,Antonov,Cargo,828,14618,88.9,1988
+Concorde Variant 10,BAC/Aérospatiale,Supersonic,2145,6867,26.3,1969
+Sukhoi Su-57 Variant 11,Sukhoi,Fighter Jet,2183,3175,13.8,2009
+Sukhoi Su-57 Variant 12,Sukhoi,Fighter Jet,2061,3398,14.1,2010
+Cessna 172 Variant 13,Cessna,Light Aircraft,226,1269,11.2,1956
+Sukhoi Su-57 Variant 14,Sukhoi,Fighter Jet,2087,3573,14.5,2011
+Concorde Variant 15,BAC/Aérospatiale,Supersonic,2071,6692,25.6,1971
+Sukhoi Su-57 Variant 16,Sukhoi,Fighter Jet,2163,3577,14.2,2012
+F-22 Raptor Variant 17,Lockheed Martin,Fighter Jet,2395,2854,13.5,1995
+F-22 Raptor Variant 18,Lockheed Martin,Fighter Jet,2447,2727,13.6,1999
+Boeing 787 Variant 19,Boeing,Passenger,907,14506,57.3,2014
+Airbus A320 Variant 20,Airbus,Passenger,882,6266,35.9,1987
+F-22 Raptor Variant 21,Lockheed Martin,Fighter Jet,2463,2940,13.5,1999
+Dassault Rafale Variant 22,Dassault Aviation,Fighter Jet,1951,3982,11.1,2001
+Antonov An-225 Variant 23,Antonov,Cargo,814,15482,89.3,1987
+Sukhoi Su-57 Variant 24,Sukhoi,Fighter Jet,2067,3761,14.4,2011
+Dassault Rafale Variant 25,Dassault Aviation,Fighter Jet,1929,3992,11.0,1999
+Boeing 787 Variant 26,Boeing,Passenger,943,14139,57.9,2014
+Dassault Rafale Variant 27,Dassault Aviation,Fighter Jet,1988,3681,10.5,2002
+Concorde Variant 28,BAC/Aérospatiale,Supersonic,2138,6692,24.6,1968
+F-22 Raptor Variant 29,Lockheed Martin,Fighter Jet,2398,3104,14.2,1997
+B-2 Spirit Variant 30,Northrop Grumman,Bomber,993,11073,50.5,1987
+Concorde Variant 31,BAC/Aérospatiale,Supersonic,2283,7472,26.0,1968
+B-2 Spirit Variant 32,Northrop Grumman,Bomber,965,9958,52.7,1990
+Boeing 747 Variant 33,Boeing,Passenger,996,12912,67.2,1968
+F-22 Raptor Variant 34,Lockheed Martin,Fighter Jet,2465,3193,13.2,1999
+Cessna 172 Variant 35,Cessna,Light Aircraft,220,1330,10.9,1957
+B-2 Spirit Variant 36,Northrop Grumman,Bomber,971,11053,54.3,1990
+Concorde Variant 37,BAC/Aérospatiale,Supersonic,2256,6848,25.8,1970
+Cessna 172 Variant 38,Cessna,Light Aircraft,231,1372,11.3,1954
+Sukhoi Su-57 Variant 39,Sukhoi,Fighter Jet,2065,3676,14.7,2011
+Airbus A320 Variant 40,Airbus,Passenger,862,6442,37.2,1987
+F-22 Raptor Variant 41,Lockheed Martin,Fighter Jet,2387,3195,14.0,1998
+Dassault Rafale Variant 42,Dassault Aviation,Fighter Jet,1980,3954,10.8,2000
+Boeing 787 Variant 43,Boeing,Passenger,958,13952,57.9,2015
+Airbus A320 Variant 44,Airbus,Passenger,884,6048,35.6,1989
+Concorde Variant 45,BAC/Aérospatiale,Supersonic,2078,7332,24.4,1967
+F-22 Raptor Variant 46,Lockheed Martin,Fighter Jet,2488,2955,14.1,1998
+F-22 Raptor Variant 47,Lockheed Martin,Fighter Jet,2363,3184,14.0,1999
+Boeing 747 Variant 48,Boeing,Passenger,999,12402,66.9,1969
+Sukhoi Su-57 Variant 49,Sukhoi,Fighter Jet,2098,3646,13.6,2008
+Antonov An-225 Variant 50,Antonov,Cargo,881,13950,92.5,1986
+F-22 Raptor Variant 51,Lockheed Martin,Fighter Jet,2524,3245,14.1,1995
+Boeing 747 Variant 52,Boeing,Passenger,984,14530,61.9,1968
+Cessna 172 Variant 53,Cessna,Light Aircraft,222,1300,11.2,1956
+Airbus A320 Variant 54,Airbus,Passenger,847,6434,36.2,1989
+Cessna 172 Variant 55,Cessna,Light Aircraft,232,1247,10.5,1955
+Airbus A320 Variant 56,Airbus,Passenger,911,5752,36.7,1987
+F-22 Raptor Variant 57,Lockheed Martin,Fighter Jet,2525,3217,13.2,1995
+Cessna 172 Variant 58,Cessna,Light Aircraft,232,1290,11.4,1955
+Dassault Rafale Variant 59,Dassault Aviation,Fighter Jet,1924,3624,11.1,1999
+F-22 Raptor Variant 60,Lockheed Martin,Fighter Jet,2420,2873,14.1,1999
+Boeing 747 Variant 61,Boeing,Passenger,1023,13621,64.9,1969
+Antonov An-225 Variant 62,Antonov,Cargo,841,15358,87.4,1988
+Cessna 172 Variant 63,Cessna,Light Aircraft,224,1252,10.8,1957
+Boeing 747 Variant 64,Boeing,Passenger,1026,14772,61.8,1970
+Antonov An-225 Variant 65,Antonov,Cargo,841,16184,87.2,1986
+Airbus A320 Variant 66,Airbus,Passenger,842,6359,35.8,1985
+Dassault Rafale Variant 67,Dassault Aviation,Fighter Jet,1918,3610,11.1,1999
+Boeing 747 Variant 68,Boeing,Passenger,1010,13395,66.1,1969
+Boeing 747 Variant 69,Boeing,Passenger,941,12743,62.3,1970
+Boeing 747 Variant 70,Boeing,Passenger,1019,13928,67.2,1968
+Dassault Rafale Variant 71,Dassault Aviation,Fighter Jet,1977,3908,10.8,1999
+F-22 Raptor Variant 72,Lockheed Martin,Fighter Jet,2422,3140,12.9,1997
+Boeing 747 Variant 73,Boeing,Passenger,984,12424,66.1,1968
+Boeing 747 Variant 74,Boeing,Passenger,1006,14581,66.5,1971
+Airbus A320 Variant 75,Airbus,Passenger,872,5607,34.8,1989
+Dassault Rafale Variant 76,Dassault Aviation,Fighter Jet,1877,3702,10.8,2002
+Boeing 787 Variant 77,Boeing,Passenger,995,14184,59.1,2015
+Cessna 172 Variant 78,Cessna,Light Aircraft,219,1175,11.2,1957
+Concorde Variant 79,BAC/Aérospatiale,Supersonic,2085,7742,25.4,1968
+Boeing 747 Variant 80,Boeing,Passenger,971,13964,63.2,1969
+Sukhoi Su-57 Variant 81,Sukhoi,Fighter Jet,2164,3611,13.4,2010
+Boeing 747 Variant 82,Boeing,Passenger,984,13284,66.6,1967
+Sukhoi Su-57 Variant 83,Sukhoi,Fighter Jet,2081,3489,14.0,2011
+Antonov An-225 Variant 84,Antonov,Cargo,817,16899,84.0,1986
+Cessna 172 Variant 85,Cessna,Light Aircraft,223,1160,11.0,1956
+Airbus A320 Variant 86,Airbus,Passenger,831,6232,36.9,1986
+Concorde Variant 87,BAC/Aérospatiale,Supersonic,2071,6969,25.0,1970
+Sukhoi Su-57 Variant 88,Sukhoi,Fighter Jet,2213,3450,14.0,2008
+Sukhoi Su-57 Variant 89,Sukhoi,Fighter Jet,2025,3429,14.4,2011
+F-22 Raptor Variant 90,Lockheed Martin,Fighter Jet,2477,3024,14.1,1995
+B-2 Spirit Variant 91,Northrop Grumman,Bomber,1022,12079,52.1,1987
+Boeing 747 Variant 92,Boeing,Passenger,950,13067,66.6,1969
+Antonov An-225 Variant 93,Antonov,Cargo,881,16346,90.6,1989
+Boeing 787 Variant 94,Boeing,Passenger,936,13594,58.3,2013
+Boeing 787 Variant 95,Boeing,Passenger,928,15252,63.0,2011
+Boeing 747 Variant 96,Boeing,Passenger,1027,12217,62.4,1969
+Cessna 172 Variant 97,Cessna,Light Aircraft,215,1394,11.3,1955
+F-22 Raptor Variant 98,Lockheed Martin,Fighter Jet,2441,2854,13.2,1995
+Concorde Variant 99,BAC/Aérospatiale,Supersonic,2258,7567,26.1,1971
+Antonov An-225 Variant 100,Antonov,Cargo,831,14721,91.3,1986
+F-22 Raptor Variant 101,Lockheed Martin,Fighter Jet,2374,3104,13.9,1995
+Boeing 747 Variant 102,Boeing,Passenger,984,13784,64.4,1970
+Antonov An-225 Variant 103,Antonov,Cargo,820,15746,90.0,1988
+Antonov An-225 Variant 104,Antonov,Cargo,875,14384,90.4,1987
+F-22 Raptor Variant 105,Lockheed Martin,Fighter Jet,2457,2711,13.1,1996
+Boeing 747 Variant 106,Boeing,Passenger,1006,12171,63.5,1967
+F-22 Raptor Variant 107,Lockheed Martin,Fighter Jet,2524,3028,13.6,1997
+Dassault Rafale Variant 108,Dassault Aviation,Fighter Jet,1962,3965,10.6,2000
+Cessna 172 Variant 109,Cessna,Light Aircraft,222,1353,11.1,1953
+Dassault Rafale Variant 110,Dassault Aviation,Fighter Jet,1914,3623,11.1,1999
+Boeing 747 Variant 111,Boeing,Passenger,946,12611,63.2,1971
+Antonov An-225 Variant 112,Antonov,Cargo,836,16303,91.7,1990
+Cessna 172 Variant 113,Cessna,Light Aircraft,218,1279,10.6,1954
+B-2 Spirit Variant 114,Northrop Grumman,Bomber,1036,10977,51.5,1989
+Boeing 787 Variant 115,Boeing,Passenger,988,15148,63.0,2015
+Antonov An-225 Variant 116,Antonov,Cargo,814,15998,87.2,1988
+Concorde Variant 117,BAC/Aérospatiale,Supersonic,2113,6616,26.2,1968
+Concorde Variant 118,BAC/Aérospatiale,Supersonic,2288,6781,24.6,1968
+Antonov An-225 Variant 119,Antonov,Cargo,870,16778,88.5,1990
+B-2 Spirit Variant 120,Northrop Grumman,Bomber,1048,10016,54.1,1991
+Sukhoi Su-57 Variant 121,Sukhoi,Fighter Jet,2144,3187,14.5,2010
+F-22 Raptor Variant 122,Lockheed Martin,Fighter Jet,2522,2772,12.9,1996
+Boeing 787 Variant 123,Boeing,Passenger,997,13893,58.4,2013
+Sukhoi Su-57 Variant 124,Sukhoi,Fighter Jet,2105,3780,14.2,2009
+F-22 Raptor Variant 125,Lockheed Martin,Fighter Jet,2310,2683,12.9,1995
+Antonov An-225 Variant 126,Antonov,Cargo,864,14356,91.2,1988
+Dassault Rafale Variant 127,Dassault Aviation,Fighter Jet,1934,3377,10.9,2003
+Boeing 787 Variant 128,Boeing,Passenger,984,13403,58.8,2011
+Dassault Rafale Variant 129,Dassault Aviation,Fighter Jet,1880,3508,10.9,2000
+F-22 Raptor Variant 130,Lockheed Martin,Fighter Jet,2506,2853,13.9,1999
+Sukhoi Su-57 Variant 131,Sukhoi,Fighter Jet,2204,3334,14.7,2012
+Cessna 172 Variant 132,Cessna,Light Aircraft,235,1227,11.5,1954
+Antonov An-225 Variant 133,Antonov,Cargo,825,16207,92.1,1989
+B-2 Spirit Variant 134,Northrop Grumman,Bomber,1055,10817,51.7,1987
+Sukhoi Su-57 Variant 135,Sukhoi,Fighter Jet,2104,3228,14.5,2008
+Concorde Variant 136,BAC/Aérospatiale,Supersonic,2115,6756,24.4,1967
+Airbus A320 Variant 137,Airbus,Passenger,853,5739,36.2,1988
+Cessna 172 Variant 138,Cessna,Light Aircraft,230,1181,10.9,1954
+Concorde Variant 139,BAC/Aérospatiale,Supersonic,2284,6736,25.5,1969
+Antonov An-225 Variant 140,Antonov,Cargo,824,14153,86.9,1989
+Concorde Variant 141,BAC/Aérospatiale,Supersonic,2228,7668,24.9,1971
+Antonov An-225 Variant 142,Antonov,Cargo,866,16160,85.3,1989
+Airbus A320 Variant 143,Airbus,Passenger,844,5988,34.7,1986
+Boeing 787 Variant 144,Boeing,Passenger,950,15266,59.3,2012
+Cessna 172 Variant 145,Cessna,Light Aircraft,222,1225,10.6,1957
+Airbus A320 Variant 146,Airbus,Passenger,828,6606,34.1,1989
+B-2 Spirit Variant 147,Northrop Grumman,Bomber,962,10566,50.1,1990
+Dassault Rafale Variant 148,Dassault Aviation,Fighter Jet,1856,3725,11.2,1999
+Boeing 747 Variant 149,Boeing,Passenger,1002,12253,65.2,1967
+Concorde Variant 150,BAC/Aérospatiale,Supersonic,2145,7710,25.0,1969
+Boeing 787 Variant 151,Boeing,Passenger,993,15292,60.7,2013
+Antonov An-225 Variant 152,Antonov,Cargo,843,14415,86.0,1990
+B-2 Spirit Variant 153,Northrop Grumman,Bomber,990,10052,50.1,1987
+B-2 Spirit Variant 154,Northrop Grumman,Bomber,1045,10955,51.6,1991
+F-22 Raptor Variant 155,Lockheed Martin,Fighter Jet,2534,3243,13.9,1997
+Concorde Variant 156,BAC/Aérospatiale,Supersonic,2213,7005,24.6,1970
+Dassault Rafale Variant 157,Dassault Aviation,Fighter Jet,1876,3357,11.1,2003
+Concorde Variant 158,BAC/Aérospatiale,Supersonic,2137,7798,24.7,1971
+F-22 Raptor Variant 159,Lockheed Martin,Fighter Jet,2480,2692,14.2,1999
+Cessna 172 Variant 160,Cessna,Light Aircraft,228,1264,10.7,1957
+Concorde Variant 161,BAC/Aérospatiale,Supersonic,2185,7216,25.3,1969
+Concorde Variant 162,BAC/Aérospatiale,Supersonic,2285,7615,25.5,1970
+F-22 Raptor Variant 163,Lockheed Martin,Fighter Jet,2463,2855,13.0,1998
+Airbus A320 Variant 164,Airbus,Passenger,852,6369,36.8,1986
+F-22 Raptor Variant 165,Lockheed Martin,Fighter Jet,2437,3094,14.1,1998
+F-22 Raptor Variant 166,Lockheed Martin,Fighter Jet,2316,3243,14.0,1995
+Concorde Variant 167,BAC/Aérospatiale,Supersonic,2284,6951,24.7,1970
+Antonov An-225 Variant 168,Antonov,Cargo,828,14793,86.0,1989
+Sukhoi Su-57 Variant 169,Sukhoi,Fighter Jet,2224,3233,14.2,2009
+F-22 Raptor Variant 170,Lockheed Martin,Fighter Jet,2319,3035,13.0,1999
+B-2 Spirit Variant 171,Northrop Grumman,Bomber,1029,12054,54.4,1987
+Airbus A320 Variant 172,Airbus,Passenger,900,6010,37.4,1988
+Dassault Rafale Variant 173,Dassault Aviation,Fighter Jet,1870,3730,11.4,2000
+Boeing 787 Variant 174,Boeing,Passenger,983,15031,62.9,2012
+Cessna 172 Variant 175,Cessna,Light Aircraft,224,1251,11.5,1955
+Airbus A320 Variant 176,Airbus,Passenger,899,5730,34.6,1989
+B-2 Spirit Variant 177,Northrop Grumman,Bomber,964,12026,55.0,1989
+Cessna 172 Variant 178,Cessna,Light Aircraft,219,1350,11.4,1956
+Dassault Rafale Variant 179,Dassault Aviation,Fighter Jet,1888,3970,11.4,2001
+F-22 Raptor Variant 180,Lockheed Martin,Fighter Jet,2499,2904,13.0,1998
+Sukhoi Su-57 Variant 181,Sukhoi,Fighter Jet,2176,3661,14.3,2010
+Antonov An-225 Variant 182,Antonov,Cargo,839,15713,88.4,1987
+Boeing 787 Variant 183,Boeing,Passenger,983,12805,57.6,2013
+Antonov An-225 Variant 184,Antonov,Cargo,888,16488,85.8,1988
+Antonov An-225 Variant 185,Antonov,Cargo,815,14559,91.9,1990
+B-2 Spirit Variant 186,Northrop Grumman,Bomber,1053,11251,51.3,1989
+Boeing 747 Variant 187,Boeing,Passenger,985,12652,61.6,1967
+B-2 Spirit Variant 188,Northrop Grumman,Bomber,959,11145,52.7,1991
+B-2 Spirit Variant 189,Northrop Grumman,Bomber,1021,10410,52.6,1989
+B-2 Spirit Variant 190,Northrop Grumman,Bomber,991,11573,54.5,1989
+Airbus A320 Variant 191,Airbus,Passenger,858,6255,34.3,1988
+B-2 Spirit Variant 192,Northrop Grumman,Bomber,1006,10131,50.8,1987
+B-2 Spirit Variant 193,Northrop Grumman,Bomber,967,11239,51.9,1991
+F-22 Raptor Variant 194,Lockheed Martin,Fighter Jet,2477,3252,13.2,1998
+Cessna 172 Variant 195,Cessna,Light Aircraft,218,1250,10.8,1953
+Boeing 787 Variant 196,Boeing,Passenger,929,12676,58.2,2011
+Airbus A320 Variant 197,Airbus,Passenger,838,6119,34.4,1988
+B-2 Spirit Variant 198,Northrop Grumman,Bomber,976,11084,51.0,1989
+Sukhoi Su-57 Variant 199,Sukhoi,Fighter Jet,2055,3579,13.6,2008
+Airbus A320 Variant 200,Airbus,Passenger,885,6597,36.0,1986
